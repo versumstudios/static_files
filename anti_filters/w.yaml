@@ -1,8 +1,8 @@
-// We use HEN w.json to index users we should ban
-// but the creator of HEN has historically shown to
-// ban users not for infringing TOS but personal vendettas
-// This whitelist exists for this reason, to pre-emptively
-// ignore any address on the hen blocklist in case it shows up
+#We use HEN w.json to index users we should ban
+#but the creator of HEN has historically shown to
+#ban users not for infringing TOS but personal vendettas
+#This whitelist exists for this reason, to pre-emptively
+#ignore any address on the hen blocklist in case it shows up
 
 "tz1WidyAU8wuyG25Pd7b93bcx9hMu7W9Pea8"
 "tz1eht4WAjkqU7kaupJd8qCDmec9HuKfGf68"
