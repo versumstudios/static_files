@@ -4,9 +4,9 @@
 #This whitelist exists for this reason, to pre-emptively
 #ignore any address on the hen blocklist in case it shows up
 WHITELIST:
-  - "tz1WidyAU8wuyG25Pd7b93bcx9hMu7W9Pea8"
-  - "tz1eht4WAjkqU7kaupJd8qCDmec9HuKfGf68"
-  - "tz1ibTknNagJCgQPgcbPvJhpSyS5vxgdyFt4"
-  - "tz1Mty9K5Pr8UPmVKPMH7xS3oFg4ZVUwuzxh"
-  - "tz1NiZMo5Z7A7qA6LiH3GMB4gBVLhqJ8nTji"
-  - "tz1TSWEDs9wcBx2KiRzVzyzECsNpRiZaLJ1D"
+  - tz1WidyAU8wuyG25Pd7b93bcx9hMu7W9Pea8
+  - tz1eht4WAjkqU7kaupJd8qCDmec9HuKfGf68
+  - tz1ibTknNagJCgQPgcbPvJhpSyS5vxgdyFt4
+  - tz1Mty9K5Pr8UPmVKPMH7xS3oFg4ZVUwuzxh
+  - tz1NiZMo5Z7A7qA6LiH3GMB4gBVLhqJ8nTji
+  - tz1TSWEDs9wcBx2KiRzVzyzECsNpRiZaLJ1D
